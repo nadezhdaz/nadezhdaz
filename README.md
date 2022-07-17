@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Nadezhda 👋
+
+# iOS developer 
+
+- 🔭 I’m open to career opportunities
+- 👯 I’m looking to collaborate on iOS projects
+- 💡 I like to learn new things and improve my knowledge over time
+- 📫 How to reach me: nzenckova@gmail.com
 
 <!--
 **nadezhdaz/nadezhdaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
