@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m open to career opportunities 
+- 🔭 I’m open to career opportunities
 - 👯 I’m looking to collaborate on iOS projects
 - 💡 I like to learn new things and improve my knowledge over time
 - 📫 How to reach me: nzenckova@gmail.com
